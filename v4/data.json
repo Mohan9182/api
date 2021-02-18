@@ -2250,7 +2250,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-18T21:27:37+05:30",
+      "last_updated": "2021-02-18T21:45:55+05:30",
       "population": 28724000,
       "tested": {
         "last_updated": "2021-02-18",
@@ -2309,7 +2309,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-18T21:27:31+05:30",
+      "last_updated": "2021-02-18T21:34:26+05:30",
       "notes": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "population": 19814000,
       "tested": {
@@ -2329,7 +2329,7 @@
     "delta7": {
       "confirmed": 4,
       "recovered": 3,
-      "vaccinated": 919
+      "vaccinated": 2083
     },
     "districts": {
       "Dadra and Nagar Haveli": {
@@ -2396,7 +2396,7 @@
       "other": 29,
       "recovered": 3349,
       "tested": 72410,
-      "vaccinated": 4647
+      "vaccinated": 5811
     }
   },
   "GA": {
@@ -3483,7 +3483,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-18T21:27:44+05:30",
+      "last_updated": "2021-02-18T21:34:33+05:30",
       "population": 7300000,
       "tested": {
         "last_updated": "2021-02-18",
@@ -5923,7 +5923,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-18T21:26:59+05:30",
+      "last_updated": "2021-02-18T21:34:38+05:30",
       "population": 68000,
       "tested": {
         "last_updated": "2021-02-18",
@@ -7005,7 +7005,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-18T21:27:47+05:30",
+      "last_updated": "2021-02-18T21:34:35+05:30",
       "notes": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "population": 3103000,
       "tested": {
@@ -7022,11 +7022,14 @@
     }
   },
   "MP": {
+    "delta": {
+      "tested": 14576
+    },
     "delta7": {
       "confirmed": 1265,
       "deceased": 14,
       "recovered": 1308,
-      "tested": 89435,
+      "tested": 104011,
       "vaccinated": 110266
     },
     "districts": {
@@ -7953,15 +7956,15 @@
       "notes": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "population": 82232000,
       "tested": {
-        "last_updated": "2021-02-17",
-        "source": "https://twitter.com/healthminmp/status/1362057440443785217"
+        "last_updated": "2021-02-18",
+        "source": "https://twitter.com/healthminmp/status/1362432982489866240"
       }
     },
     "total": {
       "confirmed": 258333,
       "deceased": 3842,
       "recovered": 252628,
-      "tested": 5618355,
+      "tested": 5632931,
       "vaccinated": 597537
     }
   },
@@ -9430,21 +9433,27 @@
   },
   "PY": {
     "delta": {
+      "confirmed": 20,
+      "recovered": 23,
       "tested": 1713
     },
     "delta7": {
-      "confirmed": 109,
+      "confirmed": 129,
       "deceased": 4,
-      "recovered": 199,
+      "recovered": 222,
       "tested": 13762,
       "vaccinated": 2574
     },
     "districts": {
       "Karaikal": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 1
+        },
         "delta7": {
-          "confirmed": 13,
+          "confirmed": 17,
           "deceased": 1,
-          "recovered": 37
+          "recovered": 38
         },
         "meta": {
           "notes": "2 case of TN has been transferred,so has been reduced from the total count.",
@@ -9454,16 +9463,20 @@
           }
         },
         "total": {
-          "confirmed": 3954,
+          "confirmed": 3958,
           "deceased": 67,
-          "recovered": 3864,
+          "recovered": 3865,
           "tested": 73142
         }
       },
       "Mahe": {
+        "delta": {
+          "confirmed": 5,
+          "recovered": 5
+        },
         "delta7": {
-          "confirmed": 21,
-          "recovered": 55
+          "confirmed": 26,
+          "recovered": 60
         },
         "meta": {
           "notes": "1 case of KL have been transferred,so have been reduced from the total count",
@@ -9473,17 +9486,21 @@
           }
         },
         "total": {
-          "confirmed": 2147,
+          "confirmed": 2152,
           "deceased": 10,
-          "recovered": 2103,
+          "recovered": 2108,
           "tested": 42415
         }
       },
       "Puducherry": {
+        "delta": {
+          "confirmed": 11,
+          "recovered": 17
+        },
         "delta7": {
-          "confirmed": 75,
+          "confirmed": 86,
           "deceased": 3,
-          "recovered": 107
+          "recovered": 124
         },
         "meta": {
           "notes": "209 cases(204 of TN, 1 of AP and 4 other) have been transferred,so have been reduced from the total count.[July 18]4 cases have transferred to TN and have been reduced from recovered cases.",
@@ -9493,9 +9510,9 @@
           }
         },
         "total": {
-          "confirmed": 31285,
+          "confirmed": 31296,
           "deceased": 538,
-          "recovered": 30602,
+          "recovered": 30619,
           "tested": 425639
         }
       },
@@ -9516,16 +9533,16 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-17T20:11:39+05:30",
+      "last_updated": "2021-02-18T21:47:24+05:30",
       "population": 1504000,
       "tested": {
         "last_updated": "2021-02-18"
       }
     },
     "total": {
-      "confirmed": 39506,
+      "confirmed": 39526,
       "deceased": 660,
-      "recovered": 38644,
+      "recovered": 38667,
       "tested": 615362,
       "vaccinated": 7354
     }
@@ -11414,21 +11431,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 12440,
+      "confirmed": 12460,
       "deceased": 82,
       "other": 11,
-      "recovered": 10169
+      "recovered": 10192
     },
     "delta7": {
-      "confirmed": 81673,
+      "confirmed": 81693,
       "deceased": 637,
       "other": 76,
-      "recovered": 77620,
+      "recovered": 77643,
       "tested": 3914007,
       "vaccinated": 1917218
     },
     "meta": {
-      "last_updated": "2021-02-18T21:27:28+05:30",
+      "last_updated": "2021-02-18T21:47:22+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-02-17",
@@ -11440,10 +11457,10 @@
       }
     },
     "total": {
-      "confirmed": 10962086,
+      "confirmed": 10962106,
       "deceased": 156121,
       "other": 4575,
-      "recovered": 10664971,
+      "recovered": 10664994,
       "tested": 208703791,
       "vaccinated": 9422228
     }
@@ -13588,10 +13605,11 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-18T21:27:32+05:30",
+      "last_updated": "2021-02-18T21:45:53+05:30",
       "population": 96906000,
       "tested": {
-        "last_updated": "2021-02-18"
+        "last_updated": "2021-02-18",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_18th_FEBRUARY_REPORT_FINAL.pdf"
       }
     },
     "total": {
