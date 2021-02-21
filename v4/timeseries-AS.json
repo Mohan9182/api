@@ -6585,14 +6585,15 @@
         "delta": {
           "confirmed": 23,
           "recovered": 19,
-          "tested": 14141
+          "tested": 14141,
+          "vaccinated": 10784
         },
         "delta7": {
           "confirmed": 82,
           "deceased": 5,
           "recovered": 116,
           "tested": 89668,
-          "vaccinated": 21710
+          "vaccinated": 32494
         },
         "total": {
           "confirmed": 217367,
@@ -6600,7 +6601,7 @@
           "other": 1347,
           "recovered": 214658,
           "tested": 6741534,
-          "vaccinated": 146748
+          "vaccinated": 157532
         }
       },
       "2021-02-20": {
@@ -6614,7 +6615,7 @@
           "deceased": 4,
           "recovered": 106,
           "tested": 90316,
-          "vaccinated": 16967
+          "vaccinated": 27751
         },
         "total": {
           "confirmed": 217383,
@@ -6622,7 +6623,24 @@
           "other": 1347,
           "recovered": 214676,
           "tested": 6755773,
-          "vaccinated": 146748
+          "vaccinated": 157532
+        }
+      },
+      "2021-02-21": {
+        "delta7": {
+          "confirmed": 90,
+          "deceased": 4,
+          "recovered": 91,
+          "tested": 83926,
+          "vaccinated": 27659
+        },
+        "total": {
+          "confirmed": 217383,
+          "deceased": 1091,
+          "other": 1347,
+          "recovered": 214676,
+          "tested": 6755773,
+          "vaccinated": 157532
         }
       }
     },
@@ -12767,6 +12785,21 @@
               "deceased": 4,
               "recovered": 106,
               "tested": 90316
+            },
+            "total": {
+              "confirmed": 217383,
+              "deceased": 1091,
+              "other": 1347,
+              "recovered": 214676,
+              "tested": 6755773
+            }
+          },
+          "2021-02-21": {
+            "delta7": {
+              "confirmed": 90,
+              "deceased": 4,
+              "recovered": 91,
+              "tested": 83926
             },
             "total": {
               "confirmed": 217383,
