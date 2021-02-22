@@ -7380,13 +7380,14 @@
   },
   "OR": {
     "delta": {
-      "confirmed": 69
+      "confirmed": 69,
+      "tested": 22138
     },
     "delta7": {
       "confirmed": 443,
       "deceased": 3,
       "recovered": 470,
-      "tested": 123955,
+      "tested": 146093,
       "vaccinated": 106303
     },
     "districts": {
@@ -7980,19 +7981,19 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-21T21:33:31+05:30",
+      "last_updated": "2021-02-22T13:05:25+05:30",
       "notes": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "population": 43671000,
       "tested": {
-        "last_updated": "2021-02-21",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6638"
+        "last_updated": "2021-02-22",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6651"
       }
     },
     "total": {
       "confirmed": 336705,
       "deceased": 1967,
       "recovered": 334107,
-      "tested": 8167772,
+      "tested": 8189910,
       "vaccinated": 533093
     }
   },
@@ -9259,7 +9260,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-22T12:57:26+05:30",
+      "last_updated": "2021-02-22T13:05:27+05:30",
       "notes": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "population": 37220000,
       "tested": {
@@ -10007,10 +10008,15 @@
     }
   },
   "TR": {
-    "delta7": {
-      "confirmed": 39,
+    "delta": {
+      "confirmed": 2,
       "recovered": 1,
-      "tested": 2505,
+      "tested": 1111
+    },
+    "delta7": {
+      "confirmed": 41,
+      "recovered": 2,
+      "tested": 3616,
       "vaccinated": 18651
     },
     "districts": {
@@ -10045,6 +10051,12 @@
         }
       },
       "Khowai": {
+        "delta": {
+          "recovered": 1
+        },
+        "delta7": {
+          "recovered": 1
+        },
         "meta": {
           "population": 327391,
           "tested": {
@@ -10054,7 +10066,7 @@
         "total": {
           "confirmed": 1843,
           "deceased": 31,
-          "recovered": 1811,
+          "recovered": 1812,
           "tested": 24046
         }
       },
@@ -10120,8 +10132,11 @@
         }
       },
       "West Tripura": {
+        "delta": {
+          "confirmed": 2
+        },
         "delta7": {
-          "confirmed": 39
+          "confirmed": 41
         },
         "meta": {
           "population": 917534,
@@ -10130,7 +10145,7 @@
           }
         },
         "total": {
-          "confirmed": 11680,
+          "confirmed": 11682,
           "deceased": 194,
           "other": 11,
           "recovered": 11436,
@@ -10139,39 +10154,39 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-20T12:21:23+05:30",
+      "last_updated": "2021-02-22T13:05:29+05:30",
       "notes": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "population": 3992000,
       "tested": {
-        "last_updated": "2021-02-20",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6549"
+        "last_updated": "2021-02-22",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6650"
       }
     },
     "total": {
-      "confirmed": 33389,
+      "confirmed": 33391,
       "deceased": 388,
       "other": 23,
-      "recovered": 32938,
-      "tested": 616899,
+      "recovered": 32939,
+      "tested": 618010,
       "vaccinated": 93956
     }
   },
   "TT": {
     "delta": {
-      "confirmed": 183,
+      "confirmed": 185,
       "deceased": 1,
-      "recovered": 143
+      "recovered": 144
     },
     "delta7": {
-      "confirmed": 79987,
+      "confirmed": 79989,
       "deceased": 572,
       "other": -10,
-      "recovered": 66262,
+      "recovered": 66263,
       "tested": 4219448,
       "vaccinated": 2396032
     },
     "meta": {
-      "last_updated": "2021-02-22T12:57:24+05:30",
+      "last_updated": "2021-02-22T13:05:23+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-02-21",
@@ -10182,10 +10197,10 @@
       }
     },
     "total": {
-      "confirmed": 11005553,
+      "confirmed": 11005555,
       "deceased": 156423,
       "other": 4539,
-      "recovered": 10697396,
+      "recovered": 10697397,
       "tested": 211551746,
       "vaccinated": 11116854
     }
