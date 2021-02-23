@@ -360,7 +360,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-23T20:18:26+05:30",
+      "last_updated": "2021-02-23T20:28:32+05:30",
       "population": 52221000,
       "tested": {
         "last_updated": "2021-02-23",
@@ -3015,7 +3015,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-23T20:18:27+05:30",
+      "last_updated": "2021-02-23T20:28:38+05:30",
       "population": 67936000,
       "tested": {
         "last_updated": "2021-02-22",
@@ -5151,7 +5151,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-23T20:18:25+05:30",
+      "last_updated": "2021-02-23T20:28:30+05:30",
       "population": 65798000,
       "tested": {
         "last_updated": "2021-02-23",
@@ -6517,9 +6517,13 @@
     }
   },
   "ML": {
+    "delta": {
+      "confirmed": 1,
+      "recovered": 3
+    },
     "delta7": {
-      "confirmed": 10,
-      "recovered": 88,
+      "confirmed": 11,
+      "recovered": 91,
       "tested": 4187,
       "vaccinated": 8732
     },
@@ -6547,9 +6551,12 @@
         }
       },
       "East Khasi Hills": {
+        "delta": {
+          "recovered": 2
+        },
         "delta7": {
           "confirmed": 9,
-          "recovered": 68
+          "recovered": 70
         },
         "meta": {
           "population": 824059
@@ -6557,7 +6564,7 @@
         "total": {
           "confirmed": 8672,
           "deceased": 122,
-          "recovered": 8531
+          "recovered": 8533
         }
       },
       "North Garo Hills": {
@@ -6593,11 +6600,17 @@
         }
       },
       "South West Garo Hills": {
+        "delta": {
+          "confirmed": 1
+        },
+        "delta7": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 172495
         },
         "total": {
-          "confirmed": 199,
+          "confirmed": 200,
           "deceased": 2,
           "recovered": 197
         }
@@ -6622,8 +6635,11 @@
         }
       },
       "West Jaintia Hills": {
+        "delta": {
+          "recovered": 1
+        },
         "delta7": {
-          "recovered": 15
+          "recovered": 16
         },
         "meta": {
           "population": 270352
@@ -6631,7 +6647,7 @@
         "total": {
           "confirmed": 542,
           "deceased": 1,
-          "recovered": 540
+          "recovered": 541
         }
       },
       "West Khasi Hills": {
@@ -6650,7 +6666,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-21T19:42:44+05:30",
+      "last_updated": "2021-02-23T20:29:25+05:30",
       "population": 3224000,
       "tested": {
         "last_updated": "2021-02-20",
@@ -6658,31 +6674,35 @@
       }
     },
     "total": {
-      "confirmed": 13954,
+      "confirmed": 13955,
       "deceased": 148,
-      "recovered": 13784,
+      "recovered": 13787,
       "tested": 360092,
       "vaccinated": 26958
     }
   },
   "MN": {
     "delta": {
+      "confirmed": 3,
+      "recovered": 16,
       "tested": 1092
     },
     "delta7": {
-      "confirmed": 27,
-      "recovered": 61,
+      "confirmed": 30,
+      "recovered": 77,
       "tested": 8263,
       "vaccinated": 14559
     },
     "districts": {
       "Unknown": {
         "delta": {
+          "confirmed": 3,
+          "recovered": 16,
           "tested": 1092
         },
         "delta7": {
-          "confirmed": 27,
-          "recovered": 61,
+          "confirmed": 30,
+          "recovered": 77,
           "tested": 8263
         },
         "meta": {
@@ -6692,15 +6712,15 @@
           }
         },
         "total": {
-          "confirmed": 29240,
+          "confirmed": 29243,
           "deceased": 373,
-          "recovered": 28818,
+          "recovered": 28834,
           "tested": 544506
         }
       }
     },
     "meta": {
-      "last_updated": "2021-02-22T18:39:27+05:30",
+      "last_updated": "2021-02-23T20:28:46+05:30",
       "notes": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "population": 3103000,
       "tested": {
@@ -6709,9 +6729,9 @@
       }
     },
     "total": {
-      "confirmed": 29240,
+      "confirmed": 29243,
       "deceased": 373,
-      "recovered": 28818,
+      "recovered": 28834,
       "tested": 544506,
       "vaccinated": 43597
     }
@@ -9084,19 +9104,28 @@
     }
   },
   "PY": {
+    "delta": {
+      "confirmed": 28,
+      "deceased": 2,
+      "recovered": 21
+    },
     "delta7": {
-      "confirmed": 112,
-      "deceased": 5,
-      "recovered": 146,
+      "confirmed": 140,
+      "deceased": 7,
+      "recovered": 167,
       "tested": 9259,
       "vaccinated": 3380
     },
     "districts": {
       "Karaikal": {
+        "delta": {
+          "confirmed": 5,
+          "recovered": 1
+        },
         "delta7": {
-          "confirmed": 17,
+          "confirmed": 22,
           "deceased": 1,
-          "recovered": 20
+          "recovered": 21
         },
         "meta": {
           "notes": "2 case of TN has been transferred,so has been reduced from the total count.",
@@ -9106,16 +9135,20 @@
           }
         },
         "total": {
-          "confirmed": 3970,
+          "confirmed": 3975,
           "deceased": 67,
-          "recovered": 3880,
+          "recovered": 3881,
           "tested": 73142
         }
       },
       "Mahe": {
+        "delta": {
+          "confirmed": 12,
+          "recovered": 2
+        },
         "delta7": {
-          "confirmed": 35,
-          "recovered": 25
+          "confirmed": 47,
+          "recovered": 27
         },
         "meta": {
           "notes": "1 case of KL have been transferred,so have been reduced from the total count",
@@ -9125,17 +9158,22 @@
           }
         },
         "total": {
-          "confirmed": 2177,
+          "confirmed": 2189,
           "deceased": 10,
-          "recovered": 2123,
+          "recovered": 2125,
           "tested": 42415
         }
       },
       "Puducherry": {
+        "delta": {
+          "confirmed": 10,
+          "deceased": 2,
+          "recovered": 18
+        },
         "delta7": {
-          "confirmed": 60,
-          "deceased": 4,
-          "recovered": 101
+          "confirmed": 70,
+          "deceased": 6,
+          "recovered": 119
         },
         "meta": {
           "notes": "209 cases(204 of TN, 1 of AP and 4 other) have been transferred,so have been reduced from the total count.[July 18]4 cases have transferred to TN and have been reduced from recovered cases.",
@@ -9145,13 +9183,19 @@
           }
         },
         "total": {
-          "confirmed": 31333,
-          "deceased": 541,
-          "recovered": 30685,
+          "confirmed": 31343,
+          "deceased": 543,
+          "recovered": 30703,
           "tested": 425639
         }
       },
       "Yanam": {
+        "delta": {
+          "confirmed": 1
+        },
+        "delta7": {
+          "confirmed": 1
+        },
         "meta": {
           "notes": "2 cases of AP have been transferred,so have been reduced from the total count",
           "population": 55626,
@@ -9160,7 +9204,7 @@
           }
         },
         "total": {
-          "confirmed": 2120,
+          "confirmed": 2121,
           "deceased": 45,
           "recovered": 2075,
           "tested": 26727
@@ -9168,16 +9212,16 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-22T20:42:34+05:30",
+      "last_updated": "2021-02-23T20:29:24+05:30",
       "population": 1504000,
       "tested": {
         "last_updated": "2021-02-22"
       }
     },
     "total": {
-      "confirmed": 39600,
-      "deceased": 663,
-      "recovered": 38763,
+      "confirmed": 39628,
+      "deceased": 665,
+      "recovered": 38784,
       "tested": 621084,
       "vaccinated": 10337
     }
@@ -10708,7 +10752,8 @@
       "notes": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "population": 75695000,
       "tested": {
-        "last_updated": "2021-02-23"
+        "last_updated": "2021-02-23",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-23-02-21-COVID-19-6-PM.pdf"
       }
     },
     "total": {
@@ -10885,21 +10930,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 11645,
-      "deceased": 75,
+      "confirmed": 11677,
+      "deceased": 77,
       "other": 2,
-      "recovered": 12053
+      "recovered": 12093
     },
     "delta7": {
-      "confirmed": 90351,
-      "deceased": 623,
+      "confirmed": 90383,
+      "deceased": 625,
       "other": -3,
-      "recovered": 79570,
+      "recovered": 79610,
       "tested": 4253202,
       "vaccinated": 2746322
     },
     "meta": {
-      "last_updated": "2021-02-23T20:18:24+05:30",
+      "last_updated": "2021-02-23T20:29:22+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-02-22",
@@ -10911,10 +10956,10 @@
       }
     },
     "total": {
-      "confirmed": 11027509,
-      "deceased": 156573,
+      "confirmed": 11027541,
+      "deceased": 156575,
       "other": 4552,
-      "recovered": 10722540,
+      "recovered": 10722580,
       "tested": 212230431,
       "vaccinated": 11745552
     }
@@ -12582,13 +12627,14 @@
     "delta": {
       "confirmed": 189,
       "deceased": 2,
-      "recovered": 228
+      "recovered": 228,
+      "tested": 18302
     },
     "delta7": {
       "confirmed": 1220,
       "deceased": 18,
       "recovered": 1657,
-      "tested": 109257,
+      "tested": 127559,
       "vaccinated": 187140
     },
     "districts": {
@@ -13021,15 +13067,15 @@
       "last_updated": "2021-02-23T19:25:37+05:30",
       "population": 96906000,
       "tested": {
-        "last_updated": "2021-02-22",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_22nd_FEBRUARY_REPORT_FINAL.pdf"
+        "last_updated": "2021-02-23",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_23rd_FEBRUARY_REPORT_FINAL.pdf"
       }
     },
     "total": {
       "confirmed": 574099,
       "deceased": 10253,
       "recovered": 560447,
-      "tested": 8444507,
+      "tested": 8462809,
       "vaccinated": 743590
     }
   }
