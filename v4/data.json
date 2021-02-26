@@ -2081,9 +2081,13 @@
     }
   },
   "DN": {
+    "delta": {
+      "confirmed": 1,
+      "recovered": 2
+    },
     "delta7": {
-      "confirmed": 3,
-      "recovered": 2,
+      "confirmed": 4,
+      "recovered": 4,
       "vaccinated": 1199
     },
     "districts": {
@@ -2106,9 +2110,13 @@
         }
       },
       "Daman": {
-        "delta7": {
+        "delta": {
           "confirmed": 1,
           "recovered": 2
+        },
+        "delta7": {
+          "confirmed": 2,
+          "recovered": 4
         },
         "meta": {
           "population": 191173,
@@ -2117,10 +2125,10 @@
           }
         },
         "total": {
-          "confirmed": 1417,
+          "confirmed": 1418,
           "deceased": 1,
           "other": 24,
-          "recovered": 1389,
+          "recovered": 1391,
           "tested": 19338
         }
       },
@@ -2139,7 +2147,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-25T14:29:29+05:30",
+      "last_updated": "2021-02-26T17:11:35+05:30",
       "population": 959000,
       "tested": {
         "last_updated": "2020-10-20",
@@ -2147,10 +2155,10 @@
       }
     },
     "total": {
-      "confirmed": 3387,
+      "confirmed": 3388,
       "deceased": 2,
       "other": 29,
-      "recovered": 3351,
+      "recovered": 3353,
       "tested": 72410,
       "vaccinated": 7994
     }
@@ -9189,12 +9197,12 @@
   },
   "TG": {
     "delta": {
-      "confirmed": 58,
+      "confirmed": 187,
       "deceased": 2,
       "recovered": 129
     },
     "delta7": {
-      "confirmed": 1044,
+      "confirmed": 1173,
       "deceased": 9,
       "recovered": 971,
       "tested": 62053,
@@ -9203,12 +9211,12 @@
     "districts": {
       "Unknown": {
         "delta": {
-          "confirmed": 58,
+          "confirmed": 187,
           "deceased": 2,
           "recovered": 129
         },
         "delta7": {
-          "confirmed": 1044,
+          "confirmed": 1173,
           "deceased": 9,
           "recovered": 971,
           "tested": 62053
@@ -9220,7 +9228,7 @@
           }
         },
         "total": {
-          "confirmed": 298322,
+          "confirmed": 298451,
           "deceased": 1632,
           "recovered": 294911,
           "tested": 8471684
@@ -9228,7 +9236,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-26T11:53:29+05:30",
+      "last_updated": "2021-02-26T17:11:31+05:30",
       "notes": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "population": 37220000,
       "tested": {
@@ -9237,7 +9245,7 @@
       }
     },
     "total": {
-      "confirmed": 298322,
+      "confirmed": 298451,
       "deceased": 1632,
       "recovered": 294911,
       "tested": 8471684,
@@ -10140,20 +10148,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 159,
+      "confirmed": 289,
       "deceased": 2,
-      "recovered": 129
+      "recovered": 131
     },
     "delta7": {
-      "confirmed": 86061,
+      "confirmed": 86191,
       "deceased": 613,
       "other": -26,
-      "recovered": 72781,
+      "recovered": 72783,
       "tested": 4399985,
       "vaccinated": 2757439
     },
     "meta": {
-      "last_updated": "2021-02-26T13:31:30+05:30",
+      "last_updated": "2021-02-26T17:11:29+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-02-25",
@@ -10165,10 +10173,10 @@
       }
     },
     "total": {
-      "confirmed": 11063234,
+      "confirmed": 11063364,
       "deceased": 156863,
       "other": 4569,
-      "recovered": 10748907,
+      "recovered": 10748909,
       "tested": 214661465,
       "vaccinated": 13472643
     }
