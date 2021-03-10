@@ -376,8 +376,11 @@
     }
   },
   "AR": {
+    "delta": {
+      "confirmed": 1
+    },
     "delta7": {
-      "confirmed": 1,
+      "confirmed": 2,
       "tested": 1677,
       "vaccinated": 13222
     },
@@ -406,6 +409,12 @@
         }
       },
       "Changlang": {
+        "delta": {
+          "confirmed": 1
+        },
+        "delta7": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 147951,
           "tested": {
@@ -413,7 +422,7 @@
           }
         },
         "total": {
-          "confirmed": 1282,
+          "confirmed": 1283,
           "deceased": 4,
           "recovered": 1278,
           "tested": 23861
@@ -730,7 +739,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-03-05T21:19:39+05:30",
+      "last_updated": "2021-03-10T21:24:54+05:30",
       "notes": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "population": 1504000,
       "tested": {
@@ -739,7 +748,7 @@
       }
     },
     "total": {
-      "confirmed": 16839,
+      "confirmed": 16840,
       "deceased": 56,
       "recovered": 16780,
       "tested": 408728,
@@ -4309,13 +4318,14 @@
     "delta": {
       "confirmed": 97,
       "deceased": 3,
-      "recovered": 54
+      "recovered": 54,
+      "tested": 25583
     },
     "delta7": {
       "confirmed": 595,
       "deceased": 10,
       "recovered": 561,
-      "tested": 155521,
+      "tested": 181104,
       "vaccinated": 112340
     },
     "districts": {
@@ -4664,15 +4674,15 @@
       "last_updated": "2021-03-10T19:29:45+05:30",
       "population": 13203000,
       "tested": {
-        "last_updated": "2021-03-09",
-        "source": "https://twitter.com/diprjk/status/1369255737470320644"
+        "last_updated": "2021-03-10",
+        "source": "https://twitter.com/diprjk/status/1369619706307440646"
       }
     },
     "total": {
       "confirmed": 127288,
       "deceased": 1968,
       "recovered": 124421,
-      "tested": 5436662,
+      "tested": 5462245,
       "vaccinated": 392481
     }
   },
@@ -6714,7 +6724,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-03-10T21:03:42+05:30",
+      "last_updated": "2021-03-10T21:20:44+05:30",
       "notes": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "population": 122153000,
       "tested": {
@@ -6925,7 +6935,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-03-10T21:03:48+05:30",
+      "last_updated": "2021-03-10T21:20:52+05:30",
       "notes": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "population": 3103000,
       "tested": {
@@ -7877,12 +7887,13 @@
   },
   "MZ": {
     "delta": {
-      "confirmed": 2
+      "confirmed": 2,
+      "tested": 660
     },
     "delta7": {
       "confirmed": 7,
       "recovered": 17,
-      "tested": 4348,
+      "tested": 5008,
       "vaccinated": 9775
     },
     "districts": {
@@ -8006,15 +8017,14 @@
       "last_updated": "2021-03-10T19:29:50+05:30",
       "population": 1192000,
       "tested": {
-        "last_updated": "2021-03-09",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-932021-last-24-hours-500pm-as-per-data-received-from-integrated-diseases-surveillance-programme-idsp"
+        "last_updated": "2021-03-10"
       }
     },
     "total": {
       "confirmed": 4434,
       "deceased": 10,
       "recovered": 4415,
-      "tested": 239090,
+      "tested": 239750,
       "vaccinated": 47161
     }
   },
@@ -9471,7 +9481,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-03-10T21:03:46+05:30",
+      "last_updated": "2021-03-10T21:20:47+05:30",
       "population": 1504000,
       "tested": {
         "last_updated": "2021-03-08",
@@ -9490,13 +9500,13 @@
     "delta": {
       "confirmed": 188,
       "recovered": 119,
-      "tested": 20087
+      "tested": 18087
     },
     "delta7": {
       "confirmed": 1306,
       "deceased": 2,
       "recovered": 742,
-      "tested": 114855,
+      "tested": 112855,
       "vaccinated": 897565
     },
     "districts": {
@@ -10222,7 +10232,7 @@
       "confirmed": 322078,
       "deceased": 2789,
       "recovered": 317257,
-      "tested": 6458572,
+      "tested": 6456572,
       "vaccinated": 2387797
     }
   },
@@ -11202,7 +11212,8 @@
       "notes": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "population": 75695000,
       "tested": {
-        "last_updated": "2021-03-10"
+        "last_updated": "2021-03-10",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-10-03-21-COVID-19-6-PM.pdf"
       }
     },
     "total": {
@@ -11366,13 +11377,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 21788,
+      "confirmed": 21789,
       "deceased": 114,
       "other": 6,
       "recovered": 17580
     },
     "delta7": {
-      "confirmed": 127536,
+      "confirmed": 127537,
       "deceased": 742,
       "other": 28,
       "recovered": 111485,
@@ -11380,7 +11391,7 @@
       "vaccinated": 6973449
     },
     "meta": {
-      "last_updated": "2021-03-10T21:03:40+05:30",
+      "last_updated": "2021-03-10T21:25:18+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-03-09",
@@ -11391,7 +11402,7 @@
       }
     },
     "total": {
-      "confirmed": 11284285,
+      "confirmed": 11284286,
       "deceased": 158213,
       "other": 4630,
       "recovered": 10935709,
@@ -13267,13 +13278,14 @@
     "delta": {
       "confirmed": 241,
       "deceased": 2,
-      "recovered": 256
+      "recovered": 256,
+      "tested": 18272
     },
     "delta7": {
       "confirmed": 1555,
       "deceased": 11,
       "recovered": 1662,
-      "tested": 111916,
+      "tested": 130188,
       "vaccinated": 609106
     },
     "districts": {
@@ -13696,15 +13708,15 @@
       "last_updated": "2021-03-10T20:42:58+05:30",
       "population": 96906000,
       "tested": {
-        "last_updated": "2021-03-09",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_9th_MARCH_REPORT_FINAL.pdf"
+        "last_updated": "2021-03-10",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_10th_MARCH_REPORT_FINAL.pdf"
       }
     },
     "total": {
       "confirmed": 577267,
       "deceased": 10283,
       "recovered": 563857,
-      "tested": 8730503,
+      "tested": 8748775,
       "vaccinated": 1889064
     }
   }
