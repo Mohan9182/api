@@ -363,10 +363,11 @@
       }
     },
     "meta": {
-      "last_updated": "2021-03-15T17:24:49+05:30",
+      "last_updated": "2021-03-15T17:31:56+05:30",
       "population": 52221000,
       "tested": {
-        "last_updated": "2021-03-15"
+        "last_updated": "2021-03-15",
+        "source": "https://twitter.com/ArogyaAndhra/status/1371428915403661320"
       }
     },
     "total": {
@@ -2137,9 +2138,13 @@
     }
   },
   "DN": {
+    "delta": {
+      "confirmed": 2,
+      "recovered": 2
+    },
     "delta7": {
-      "confirmed": 14,
-      "recovered": 1,
+      "confirmed": 16,
+      "recovered": 3,
       "vaccinated": 3168
     },
     "districts": {
@@ -2163,8 +2168,13 @@
         }
       },
       "Daman": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 2
+        },
         "delta7": {
-          "confirmed": 6
+          "confirmed": 8,
+          "recovered": 2
         },
         "meta": {
           "population": 191173,
@@ -2173,10 +2183,10 @@
           }
         },
         "total": {
-          "confirmed": 1436,
+          "confirmed": 1438,
           "deceased": 1,
           "other": 25,
-          "recovered": 1393,
+          "recovered": 1395,
           "tested": 19338
         }
       },
@@ -2203,57 +2213,69 @@
       }
     },
     "total": {
-      "confirmed": 3420,
+      "confirmed": 3422,
       "deceased": 2,
       "other": 30,
-      "recovered": 3358,
+      "recovered": 3360,
       "tested": 72410,
       "vaccinated": 17166
     }
   },
   "GA": {
+    "delta": {
+      "confirmed": 89,
+      "deceased": 1,
+      "recovered": 62,
+      "tested": 1354
+    },
     "delta7": {
-      "confirmed": 454,
-      "deceased": 7,
-      "recovered": 330,
-      "tested": 9371,
+      "confirmed": 543,
+      "deceased": 8,
+      "recovered": 392,
+      "tested": 10725,
       "vaccinated": 19342
     },
     "districts": {
       "Unknown": {
+        "delta": {
+          "confirmed": 89,
+          "deceased": 1,
+          "recovered": 62,
+          "tested": 1354
+        },
         "delta7": {
-          "confirmed": 454,
-          "deceased": 7,
-          "recovered": 330,
-          "tested": 9371
+          "confirmed": 543,
+          "deceased": 8,
+          "recovered": 392,
+          "tested": 10725
         },
         "meta": {
           "tested": {
-            "last_updated": "2021-03-14",
-            "source": "https://www.goa.gov.in/wp-content/uploads/2021/03/Media-Bulletin-14th-March-2021.pdf"
+            "last_updated": "2021-03-15",
+            "source": "https://www.goa.gov.in/wp-content/uploads/2021/03/Media-Bulletin-15th-March-2021.pdf"
           }
         },
         "total": {
-          "confirmed": 55917,
-          "deceased": 806,
-          "recovered": 54362,
-          "tested": 514309
+          "confirmed": 56006,
+          "deceased": 807,
+          "recovered": 54424,
+          "tested": 515663
         }
       }
     },
     "meta": {
-      "last_updated": "2021-03-14T20:00:33+05:30",
+      "last_updated": "2021-03-15T17:44:55+05:30",
       "population": 1540000,
       "tested": {
-        "last_updated": "2021-03-14",
-        "source": "https://www.goa.gov.in/wp-content/uploads/2021/03/Media-Bulletin-14th-March-2021.pdf"
+        "last_updated": "2021-03-15",
+        "source": "https://www.goa.gov.in/wp-content/uploads/2021/03/Media-Bulletin-15th-March-2021.pdf"
       }
     },
     "total": {
-      "confirmed": 55917,
-      "deceased": 806,
-      "recovered": 54362,
-      "tested": 514309,
+      "confirmed": 56006,
+      "deceased": 807,
+      "recovered": 54424,
+      "tested": 515663,
       "vaccinated": 66143
     }
   },
@@ -10222,20 +10244,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 385,
-      "deceased": 3,
-      "recovered": 287
+      "confirmed": 476,
+      "deceased": 4,
+      "recovered": 351
     },
     "delta7": {
-      "confirmed": 140919,
-      "deceased": 799,
+      "confirmed": 141010,
+      "deceased": 800,
       "other": 36,
-      "recovered": 108246,
+      "recovered": 108310,
       "tested": 4690617,
       "vaccinated": 6306691
     },
     "meta": {
-      "last_updated": "2021-03-15T17:24:47+05:30",
+      "last_updated": "2021-03-15T17:44:52+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-03-14",
@@ -10246,10 +10268,10 @@
       }
     },
     "total": {
-      "confirmed": 11385543,
-      "deceased": 158765,
+      "confirmed": 11385634,
+      "deceased": 158766,
       "other": 4654,
-      "recovered": 11005732,
+      "recovered": 11005796,
       "tested": 227407413,
       "vaccinated": 27345191
     }
