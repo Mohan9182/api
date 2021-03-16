@@ -4521,50 +4521,68 @@
   "TG": {
     "delta": {
       "confirmed": 6,
-      "recovered": 42
+      "recovered": 42,
+      "tested": 4101
     },
     "delta7": {
       "confirmed": 81,
       "deceased": 2,
-      "recovered": 180
+      "recovered": 180,
+      "tested": 4101
     },
     "districts": {
       "Unknown": {
         "delta": {
           "confirmed": 6,
-          "recovered": 42
+          "recovered": 42,
+          "tested": 4101
         },
         "delta7": {
           "confirmed": 81,
           "deceased": 2,
-          "recovered": 180
+          "recovered": 180,
+          "tested": 4101
+        },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-04-28",
+            "source": "https://www.thehindu.com/news/national/telangana/accuracy-of-tests-more-in-telangana-eatala/article31456895.ece"
+          }
         },
         "total": {
           "confirmed": 1009,
           "deceased": 25,
-          "recovered": 374
+          "recovered": 374,
+          "tested": 19063
         }
       }
     },
     "meta": {
-      "population": 37220000
+      "population": 37220000,
+      "tested": {
+        "last_updated": "2020-04-28",
+        "source": "https://www.thehindu.com/news/national/telangana/accuracy-of-tests-more-in-telangana-eatala/article31456895.ece"
+      }
     },
     "total": {
       "confirmed": 1009,
       "deceased": 25,
-      "recovered": 374
+      "recovered": 374,
+      "tested": 19063
     }
   },
   "TN": {
     "delta": {
       "confirmed": 121,
       "deceased": 1,
-      "recovered": 54
+      "recovered": 54,
+      "tested": 7093
     },
     "delta7": {
       "confirmed": 462,
       "deceased": 7,
-      "recovered": 493
+      "recovered": 493,
+      "tested": 48829
     },
     "districts": {
       "Ariyalur": {
@@ -4984,17 +5002,23 @@
       }
     },
     "meta": {
-      "population": 75695000
+      "population": 75695000,
+      "tested": {
+        "last_updated": "2020-04-28",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-28.04.2020.pdf"
+      }
     },
     "total": {
       "confirmed": 2058,
       "deceased": 25,
-      "recovered": 1128
+      "recovered": 1128,
+      "tested": 101874
     }
   },
   "TR": {
     "delta7": {
-      "recovered": 1
+      "recovered": 1,
+      "tested": 611
     },
     "districts": {
       "Gomati": {
@@ -5017,11 +5041,16 @@
       }
     },
     "meta": {
-      "population": 3992000
+      "population": 3992000,
+      "tested": {
+        "last_updated": "2020-04-22",
+        "source": "https://t.me/indiacovid/2983?single"
+      }
     },
     "total": {
       "confirmed": 2,
-      "recovered": 2
+      "recovered": 2,
+      "tested": 3215
     }
   },
   "TT": {
@@ -5057,12 +5086,14 @@
     "delta": {
       "confirmed": 67,
       "deceased": 3,
-      "recovered": 63
+      "recovered": 63,
+      "tested": 3162
     },
     "delta7": {
       "confirmed": 716,
       "deceased": 13,
-      "recovered": 300
+      "recovered": 300,
+      "tested": 32374
     },
     "districts": {
       "Agra": {
@@ -5824,21 +5855,28 @@
       }
     },
     "meta": {
-      "population": 224979000
+      "population": 224979000,
+      "tested": {
+        "last_updated": "2020-04-28",
+        "source": "https://t.me/indiacovid/3474"
+      }
     },
     "total": {
       "confirmed": 2053,
       "deceased": 34,
-      "recovered": 462
+      "recovered": 462,
+      "tested": 70307
     }
   },
   "UT": {
     "delta": {
-      "confirmed": 3
+      "confirmed": 3,
+      "tested": 276
     },
     "delta7": {
       "confirmed": 8,
-      "recovered": 7
+      "recovered": 7,
+      "tested": 1678
     },
     "districts": {
       "Almora": {
@@ -5902,23 +5940,30 @@
       }
     },
     "meta": {
-      "population": 11141000
+      "population": 11141000,
+      "tested": {
+        "last_updated": "2020-04-28",
+        "source": "https://twitter.com/ANI/status/1255131631137943552?s=09"
+      }
     },
     "total": {
       "confirmed": 54,
-      "recovered": 26
+      "recovered": 26,
+      "tested": 5739
     }
   },
   "WB": {
     "delta": {
       "confirmed": 48,
       "deceased": 2,
-      "recovered": 4
+      "recovered": 4,
+      "tested": 1180
     },
     "delta7": {
       "confirmed": 305,
       "deceased": 7,
-      "recovered": 36
+      "recovered": 36,
+      "tested": 7041
     },
     "districts": {
       "Darjeeling": {
@@ -6044,12 +6089,17 @@
       }
     },
     "meta": {
-      "population": 96906000
+      "population": 96906000,
+      "tested": {
+        "last_updated": "2020-04-28",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_28.04_.2020_.pdf"
+      }
     },
     "total": {
       "confirmed": 697,
       "deceased": 22,
-      "recovered": 109
+      "recovered": 109,
+      "tested": 13223
     }
   }
 }
