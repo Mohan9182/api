@@ -5940,9 +5940,13 @@
     }
   },
   "ML": {
+    "delta": {
+      "confirmed": 3,
+      "recovered": 1
+    },
     "delta7": {
-      "confirmed": 17,
-      "recovered": 7,
+      "confirmed": 20,
+      "recovered": 8,
       "tested": 6280,
       "vaccinated": 12423
     },
@@ -5967,15 +5971,18 @@
         }
       },
       "East Khasi Hills": {
+        "delta": {
+          "confirmed": 2
+        },
         "delta7": {
-          "confirmed": 10,
+          "confirmed": 12,
           "recovered": 6
         },
         "meta": {
           "population": 824059
         },
         "total": {
-          "confirmed": 8705,
+          "confirmed": 8707,
           "deceased": 122,
           "recovered": 8563
         }
@@ -5991,15 +5998,18 @@
         }
       },
       "Ribhoi": {
+        "delta": {
+          "confirmed": 1
+        },
         "delta7": {
-          "confirmed": 6,
+          "confirmed": 7,
           "recovered": 1
         },
         "meta": {
           "population": 258380
         },
         "total": {
-          "confirmed": 1390,
+          "confirmed": 1391,
           "deceased": 2,
           "recovered": 1381
         }
@@ -6033,8 +6043,12 @@
         }
       },
       "West Garo Hills": {
+        "delta": {
+          "recovered": 1
+        },
         "delta7": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 1
         },
         "meta": {
           "population": 642923
@@ -6042,7 +6056,7 @@
         "total": {
           "confirmed": 1719,
           "deceased": 17,
-          "recovered": 1699
+          "recovered": 1700
         }
       },
       "West Jaintia Hills": {
@@ -6067,16 +6081,16 @@
       }
     },
     "meta": {
-      "last_updated": "2021-03-17T20:22:07+05:30",
+      "last_updated": "2021-03-18T16:46:45+05:30",
       "population": 3224000,
       "tested": {
         "last_updated": "2021-03-17"
       }
     },
     "total": {
-      "confirmed": 14002,
+      "confirmed": 14005,
       "deceased": 148,
-      "recovered": 13824,
+      "recovered": 13825,
       "tested": 387629,
       "vaccinated": 68510
     }
@@ -10201,20 +10215,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 451,
+      "confirmed": 454,
       "deceased": 4,
-      "recovered": 131
+      "recovered": 132
     },
     "delta7": {
-      "confirmed": 166107,
+      "confirmed": 166110,
       "deceased": 911,
       "other": 49,
-      "recovered": 109926,
+      "recovered": 109927,
       "tested": 5314525,
       "vaccinated": 9820950
     },
     "meta": {
-      "last_updated": "2021-03-18T14:03:50+05:30",
+      "last_updated": "2021-03-18T16:46:42+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-03-17",
@@ -10225,10 +10239,10 @@
       }
     },
     "total": {
-      "confirmed": 11474753,
+      "confirmed": 11474756,
       "deceased": 159254,
       "other": 4685,
-      "recovered": 11061301,
+      "recovered": 11061302,
       "tested": 230313163,
       "vaccinated": 33784295
     }
