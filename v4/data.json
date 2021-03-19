@@ -47,13 +47,14 @@
     "delta": {
       "confirmed": 246,
       "deceased": 1,
-      "recovered": 131
+      "recovered": 131,
+      "tested": 31546
     },
     "delta7": {
       "confirmed": 1598,
       "deceased": 7,
       "recovered": 909,
-      "tested": 194014,
+      "tested": 225560,
       "vaccinated": 374129
     },
     "districts": {
@@ -366,15 +367,15 @@
       "last_updated": "2021-03-19T17:35:43+05:30",
       "population": 52221000,
       "tested": {
-        "last_updated": "2021-03-18",
-        "source": "https://twitter.com/ArogyaAndhra/status/1372514503091392517?s=20"
+        "last_updated": "2021-03-19",
+        "source": "https://twitter.com/ArogyaAndhra/status/1372872236797849600"
       }
     },
     "total": {
       "confirmed": 892986,
       "deceased": 7187,
       "recovered": 883890,
-      "tested": 14642664,
+      "tested": 14674210,
       "vaccinated": 1406055
     }
   },
@@ -2242,13 +2243,14 @@
     "delta": {
       "confirmed": 100,
       "deceased": 2,
-      "recovered": 60
+      "recovered": 60,
+      "tested": 1948
     },
     "delta7": {
       "confirmed": 613,
       "deceased": 11,
       "recovered": 448,
-      "tested": 9007,
+      "tested": 10955,
       "vaccinated": 20923
     },
     "districts": {
@@ -2256,41 +2258,42 @@
         "delta": {
           "confirmed": 100,
           "deceased": 2,
-          "recovered": 60
+          "recovered": 60,
+          "tested": 1948
         },
         "delta7": {
           "confirmed": 613,
           "deceased": 11,
           "recovered": 448,
-          "tested": 9007
+          "tested": 10955
         },
         "meta": {
           "tested": {
-            "last_updated": "2021-03-18",
-            "source": "https://www.goa.gov.in/wp-content/uploads/2021/03/Media-Bulletin-18th-March-2021.pdf"
+            "last_updated": "2021-03-19",
+            "source": "https://www.goa.gov.in/wp-content/uploads/2021/03/Media-Bulletin-19th-March-2021.pdf"
           }
         },
         "total": {
           "confirmed": 56371,
           "deceased": 815,
           "recovered": 54657,
-          "tested": 520510
+          "tested": 522458
         }
       }
     },
     "meta": {
-      "last_updated": "2021-03-19T18:24:46+05:30",
+      "last_updated": "2021-03-19T18:42:51+05:30",
       "population": 1540000,
       "tested": {
-        "last_updated": "2021-03-18",
-        "source": "https://www.goa.gov.in/wp-content/uploads/2021/03/Media-Bulletin-18th-March-2021.pdf"
+        "last_updated": "2021-03-19",
+        "source": "https://www.goa.gov.in/wp-content/uploads/2021/03/Media-Bulletin-19th-March-2021.pdf"
       }
     },
     "total": {
       "confirmed": 56371,
       "deceased": 815,
       "recovered": 54657,
-      "tested": 520510,
+      "tested": 522458,
       "vaccinated": 83096
     }
   },
@@ -4026,13 +4029,14 @@
     "delta": {
       "confirmed": 152,
       "deceased": 1,
-      "recovered": 72
+      "recovered": 72,
+      "tested": 27188
     },
     "delta7": {
       "confirmed": 813,
       "deceased": 8,
       "recovered": 540,
-      "tested": 150820,
+      "tested": 178008,
       "vaccinated": 169560
     },
     "districts": {
@@ -4381,18 +4385,18 @@
       }
     },
     "meta": {
-      "last_updated": "2021-03-19T18:25:56+05:30",
+      "last_updated": "2021-03-19T18:42:49+05:30",
       "population": 13203000,
       "tested": {
-        "last_updated": "2021-03-18",
-        "source": "https://twitter.com/diprjk/status/1372514654090452992?s=20"
+        "last_updated": "2021-03-19",
+        "source": "https://twitter.com/diprjk/status/1372874989284724737"
       }
     },
     "total": {
       "confirmed": 128249,
       "deceased": 1979,
       "recovered": 125118,
-      "tested": 5663272,
+      "tested": 5690460,
       "vaccinated": 563379
     }
   },
@@ -6091,9 +6095,13 @@
     }
   },
   "ML": {
+    "delta": {
+      "confirmed": 3,
+      "recovered": 4
+    },
     "delta7": {
-      "confirmed": 19,
-      "recovered": 7,
+      "confirmed": 22,
+      "recovered": 11,
       "tested": 7243,
       "vaccinated": 14142
     },
@@ -6118,17 +6126,21 @@
         }
       },
       "East Khasi Hills": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 2
+        },
         "delta7": {
-          "confirmed": 12,
-          "recovered": 5
+          "confirmed": 15,
+          "recovered": 7
         },
         "meta": {
           "population": 824059
         },
         "total": {
-          "confirmed": 8707,
+          "confirmed": 8710,
           "deceased": 122,
-          "recovered": 8563
+          "recovered": 8565
         }
       },
       "North Garo Hills": {
@@ -6142,9 +6154,12 @@
         }
       },
       "Ribhoi": {
+        "delta": {
+          "recovered": 1
+        },
         "delta7": {
           "confirmed": 7,
-          "recovered": 1
+          "recovered": 2
         },
         "meta": {
           "population": 258380
@@ -6152,7 +6167,7 @@
         "total": {
           "confirmed": 1391,
           "deceased": 2,
-          "recovered": 1381
+          "recovered": 1382
         }
       },
       "South Garo Hills": {
@@ -6184,8 +6199,11 @@
         }
       },
       "West Garo Hills": {
-        "delta7": {
+        "delta": {
           "recovered": 1
+        },
+        "delta7": {
+          "recovered": 2
         },
         "meta": {
           "population": 642923
@@ -6193,7 +6211,7 @@
         "total": {
           "confirmed": 1719,
           "deceased": 17,
-          "recovered": 1700
+          "recovered": 1701
         }
       },
       "West Jaintia Hills": {
@@ -6218,7 +6236,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-03-18T17:01:54+05:30",
+      "last_updated": "2021-03-19T18:42:53+05:30",
       "population": 3224000,
       "tested": {
         "last_updated": "2021-03-18",
@@ -6226,9 +6244,9 @@
       }
     },
     "total": {
-      "confirmed": 14005,
+      "confirmed": 14008,
       "deceased": 148,
-      "recovered": 13825,
+      "recovered": 13829,
       "tested": 388592,
       "vaccinated": 72484
     }
@@ -10361,20 +10379,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 998,
+      "confirmed": 1001,
       "deceased": 6,
-      "recovered": 433
+      "recovered": 437
     },
     "delta7": {
-      "confirmed": 181496,
+      "confirmed": 181499,
       "deceased": 929,
       "other": 55,
-      "recovered": 110612,
+      "recovered": 110616,
       "tested": 5531273,
       "vaccinated": 10035340
     },
     "meta": {
-      "last_updated": "2021-03-19T18:25:54+05:30",
+      "last_updated": "2021-03-19T18:42:46+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-03-18",
@@ -10385,10 +10403,10 @@
       }
     },
     "total": {
-      "confirmed": 11514987,
+      "confirmed": 11514990,
       "deceased": 159412,
       "other": 4694,
-      "recovered": 11081959,
+      "recovered": 11081963,
       "tested": 231370546,
       "vaccinated": 35923500
     }
