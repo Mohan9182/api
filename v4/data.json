@@ -2097,7 +2097,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-03-20T16:41:45+05:30",
+      "last_updated": "2021-03-20T16:57:47+05:30",
       "notes": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "population": 19814000,
       "tested": {
@@ -2179,7 +2179,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-03-20T16:41:50+05:30",
+      "last_updated": "2021-03-20T16:57:53+05:30",
       "population": 959000,
       "tested": {
         "last_updated": "2020-10-20",
@@ -5986,9 +5986,15 @@
     }
   },
   "ML": {
+    "delta": {
+      "confirmed": 4,
+      "deceased": 1,
+      "recovered": 6
+    },
     "delta7": {
-      "confirmed": 16,
-      "recovered": 11,
+      "confirmed": 20,
+      "deceased": 1,
+      "recovered": 17,
       "tested": 6229,
       "vaccinated": 16742
     },
@@ -6013,17 +6019,23 @@
         }
       },
       "East Khasi Hills": {
+        "delta": {
+          "confirmed": 4,
+          "deceased": 1,
+          "recovered": 6
+        },
         "delta7": {
-          "confirmed": 13,
-          "recovered": 7
+          "confirmed": 17,
+          "deceased": 1,
+          "recovered": 13
         },
         "meta": {
           "population": 824059
         },
         "total": {
-          "confirmed": 8710,
-          "deceased": 122,
-          "recovered": 8565
+          "confirmed": 8714,
+          "deceased": 123,
+          "recovered": 8571
         }
       },
       "North Garo Hills": {
@@ -6113,7 +6125,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-03-19T18:52:58+05:30",
+      "last_updated": "2021-03-20T17:01:47+05:30",
       "population": 3224000,
       "tested": {
         "last_updated": "2021-03-19",
@@ -6121,9 +6133,9 @@
       }
     },
     "total": {
-      "confirmed": 14008,
-      "deceased": 148,
-      "recovered": 13829,
+      "confirmed": 14012,
+      "deceased": 149,
+      "recovered": 13835,
       "tested": 389679,
       "vaccinated": 76656
     }
@@ -7246,9 +7258,12 @@
     }
   },
   "NL": {
+    "delta": {
+      "tested": 101
+    },
     "delta7": {
       "recovered": 12,
-      "tested": 1025,
+      "tested": 1126,
       "vaccinated": 12778
     },
     "districts": {
@@ -7419,8 +7434,8 @@
       "last_updated": "2021-03-19T17:35:45+05:30",
       "population": 2150000,
       "tested": {
-        "last_updated": "2021-03-19",
-        "source": "https://twitter.com/MyGovNagaland/status/1372882348564357123"
+        "last_updated": "2021-03-20",
+        "source": "https://twitter.com/MyGovNagaland/status/1373233935904215044"
       }
     },
     "total": {
@@ -7428,7 +7443,7 @@
       "deceased": 91,
       "other": 154,
       "recovered": 11978,
-      "tested": 134721,
+      "tested": 134822,
       "vaccinated": 67353
     }
   },
@@ -8602,7 +8617,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-03-20T16:41:48+05:30",
+      "last_updated": "2021-03-20T16:57:50+05:30",
       "population": 1504000,
       "tested": {
         "last_updated": "2021-03-20",
@@ -10268,20 +10283,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1363,
-      "deceased": 4,
-      "recovered": 781
+      "confirmed": 1367,
+      "deceased": 5,
+      "recovered": 787
     },
     "delta7": {
-      "confirmed": 197613,
-      "deceased": 956,
+      "confirmed": 197617,
+      "deceased": 957,
       "other": 54,
-      "recovered": 118075,
+      "recovered": 118081,
       "tested": 5727876,
       "vaccinated": 10844996
     },
     "meta": {
-      "last_updated": "2021-03-20T16:41:43+05:30",
+      "last_updated": "2021-03-20T17:01:45+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-03-19",
@@ -10292,10 +10307,10 @@
       }
     },
     "total": {
-      "confirmed": 11556258,
-      "deceased": 159598,
+      "confirmed": 11556262,
+      "deceased": 159599,
       "other": 4703,
-      "recovered": 11105930,
+      "recovered": 11105936,
       "tested": 232431517,
       "vaccinated": 38190187
     }
