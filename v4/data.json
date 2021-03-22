@@ -742,7 +742,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-03-22T22:36:10+05:30",
+      "last_updated": "2021-03-22T22:54:34+05:30",
       "notes": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "population": 1504000,
       "tested": {
@@ -2324,7 +2324,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-03-22T22:36:05+05:30",
+      "last_updated": "2021-03-22T22:54:10+05:30",
       "population": 28724000,
       "tested": {
         "last_updated": "2021-03-22",
@@ -4117,7 +4117,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-03-22T22:36:07+05:30",
+      "last_updated": "2021-03-22T22:54:12+05:30",
       "population": 28672000,
       "tested": {
         "last_updated": "2021-03-22",
@@ -4134,12 +4134,15 @@
   },
   "JH": {
     "delta": {
+      "confirmed": 110,
+      "deceased": 1,
+      "recovered": 69,
       "tested": 14220
     },
     "delta7": {
-      "confirmed": 566,
-      "deceased": 3,
-      "recovered": 363,
+      "confirmed": 676,
+      "deceased": 4,
+      "recovered": 432,
       "tested": 84687,
       "vaccinated": 458114
     },
@@ -4150,9 +4153,13 @@
         }
       },
       "Bokaro": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 3
+        },
         "delta7": {
-          "confirmed": 34,
-          "recovered": 21
+          "confirmed": 36,
+          "recovered": 24
         },
         "meta": {
           "population": 2061918,
@@ -4161,26 +4168,38 @@
           }
         },
         "total": {
-          "confirmed": 6799,
+          "confirmed": 6801,
           "deceased": 66,
-          "recovered": 6701,
+          "recovered": 6704,
           "tested": 11798
         }
       },
       "Chatra": {
+        "delta": {
+          "recovered": 2
+        },
+        "delta7": {
+          "recovered": 2
+        },
         "meta": {
           "population": 1042304
         },
         "total": {
           "confirmed": 1434,
           "deceased": 11,
-          "recovered": 1421
+          "recovered": 1423
         }
       },
       "Deoghar": {
+        "delta": {
+          "confirmed": 4,
+          "deceased": 1,
+          "recovered": 1
+        },
         "delta7": {
-          "confirmed": 5,
-          "recovered": 3
+          "confirmed": 9,
+          "deceased": 1,
+          "recovered": 4
         },
         "meta": {
           "population": 1491879,
@@ -4189,24 +4208,28 @@
           }
         },
         "total": {
-          "confirmed": 3710,
-          "deceased": 23,
-          "recovered": 3679,
+          "confirmed": 3714,
+          "deceased": 24,
+          "recovered": 3680,
           "tested": 6951
         }
       },
       "Dhanbad": {
+        "delta": {
+          "confirmed": 9,
+          "recovered": 4
+        },
         "delta7": {
-          "confirmed": 27,
-          "recovered": 10
+          "confirmed": 36,
+          "recovered": 14
         },
         "meta": {
           "population": 2682662
         },
         "total": {
-          "confirmed": 7856,
+          "confirmed": 7865,
           "deceased": 116,
-          "recovered": 7703
+          "recovered": 7707
         }
       },
       "Dumka": {
@@ -4228,17 +4251,21 @@
         }
       },
       "East Singhbhum": {
+        "delta": {
+          "confirmed": 28,
+          "recovered": 10
+        },
         "delta7": {
-          "confirmed": 124,
-          "recovered": 68
+          "confirmed": 152,
+          "recovered": 78
         },
         "meta": {
           "population": 2291032
         },
         "total": {
-          "confirmed": 18784,
+          "confirmed": 18812,
           "deceased": 356,
-          "recovered": 18301
+          "recovered": 18311
         }
       },
       "Garhwa": {
@@ -4274,8 +4301,12 @@
         }
       },
       "Godda": {
+        "delta": {
+          "recovered": 1
+        },
         "delta7": {
-          "confirmed": 6
+          "confirmed": 6,
+          "recovered": 1
         },
         "meta": {
           "population": 1311382,
@@ -4286,40 +4317,50 @@
         "total": {
           "confirmed": 2117,
           "deceased": 10,
-          "recovered": 2100,
+          "recovered": 2101,
           "tested": 10980
         }
       },
       "Gumla": {
+        "delta": {
+          "confirmed": 6
+        },
         "delta7": {
-          "confirmed": 16,
+          "confirmed": 22,
           "recovered": 13
         },
         "meta": {
           "population": 1025656
         },
         "total": {
-          "confirmed": 2385,
+          "confirmed": 2391,
           "deceased": 6,
           "recovered": 2359
         }
       },
       "Hazaribagh": {
+        "delta": {
+          "confirmed": 1
+        },
         "delta7": {
-          "confirmed": 7,
+          "confirmed": 8,
           "recovered": 3
         },
         "meta": {
           "population": 1734005
         },
         "total": {
-          "confirmed": 4459,
+          "confirmed": 4460,
           "deceased": 38,
           "recovered": 4414
         }
       },
       "Jamtara": {
+        "delta": {
+          "confirmed": 2
+        },
         "delta7": {
+          "confirmed": 2,
           "recovered": 4
         },
         "meta": {
@@ -4329,15 +4370,18 @@
           }
         },
         "total": {
-          "confirmed": 1278,
+          "confirmed": 1280,
           "deceased": 4,
           "recovered": 1274,
           "tested": 2880
         }
       },
       "Khunti": {
+        "delta": {
+          "confirmed": 1
+        },
         "delta7": {
-          "confirmed": 7
+          "confirmed": 8
         },
         "meta": {
           "population": 530299,
@@ -4346,44 +4390,54 @@
           }
         },
         "total": {
-          "confirmed": 2156,
+          "confirmed": 2157,
           "deceased": 7,
           "recovered": 2142,
           "tested": 3852
         }
       },
       "Koderma": {
+        "delta": {
+          "confirmed": 1
+        },
         "delta7": {
-          "confirmed": 5,
+          "confirmed": 6,
           "recovered": 1
         },
         "meta": {
           "population": 717169
         },
         "total": {
-          "confirmed": 3488,
+          "confirmed": 3489,
           "deceased": 28,
           "recovered": 3453
         }
       },
       "Latehar": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 1
+        },
         "delta7": {
-          "confirmed": 7,
-          "recovered": 3
+          "confirmed": 9,
+          "recovered": 4
         },
         "meta": {
           "population": 725673
         },
         "total": {
-          "confirmed": 1984,
+          "confirmed": 1986,
           "deceased": 7,
-          "recovered": 1961
+          "recovered": 1962
         }
       },
       "Lohardaga": {
+        "delta": {
+          "recovered": 1
+        },
         "delta7": {
           "confirmed": 2,
-          "recovered": 1
+          "recovered": 2
         },
         "meta": {
           "population": 461738,
@@ -4394,7 +4448,7 @@
         "total": {
           "confirmed": 1814,
           "deceased": 10,
-          "recovered": 1784,
+          "recovered": 1785,
           "tested": 7526
         }
       },
@@ -4426,37 +4480,48 @@
         }
       },
       "Ramgarh": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 4
+        },
         "delta7": {
-          "confirmed": 16,
-          "recovered": 7
+          "confirmed": 18,
+          "recovered": 11
         },
         "meta": {
           "population": 949159
         },
         "total": {
-          "confirmed": 4573,
+          "confirmed": 4575,
           "deceased": 28,
-          "recovered": 4523
+          "recovered": 4527
         }
       },
       "Ranchi": {
+        "delta": {
+          "confirmed": 46,
+          "recovered": 41
+        },
         "delta7": {
-          "confirmed": 272,
+          "confirmed": 318,
           "deceased": 3,
-          "recovered": 214
+          "recovered": 255
         },
         "meta": {
           "population": 2912022
         },
         "total": {
-          "confirmed": 33891,
+          "confirmed": 33937,
           "deceased": 252,
-          "recovered": 33238
+          "recovered": 33279
         }
       },
       "Sahibganj": {
+        "delta": {
+          "confirmed": 2
+        },
         "delta7": {
-          "confirmed": 6
+          "confirmed": 8
         },
         "meta": {
           "population": 1150038,
@@ -4465,7 +4530,7 @@
           }
         },
         "total": {
-          "confirmed": 1655,
+          "confirmed": 1657,
           "deceased": 9,
           "recovered": 1639,
           "tested": 5029
@@ -4477,8 +4542,11 @@
         }
       },
       "Saraikela-Kharsawan": {
+        "delta": {
+          "confirmed": 3
+        },
         "delta7": {
-          "confirmed": 1,
+          "confirmed": 4,
           "recovered": 3
         },
         "meta": {
@@ -4488,16 +4556,19 @@
           }
         },
         "total": {
-          "confirmed": 3712,
+          "confirmed": 3715,
           "deceased": 12,
           "recovered": 3699,
           "tested": 161796
         }
       },
       "Simdega": {
+        "delta": {
+          "recovered": 1
+        },
         "delta7": {
           "confirmed": 4,
-          "recovered": 5
+          "recovered": 6
         },
         "meta": {
           "population": 599813
@@ -4505,7 +4576,7 @@
         "total": {
           "confirmed": 2071,
           "deceased": 6,
-          "recovered": 2061
+          "recovered": 2062
         }
       },
       "Unknown": {
@@ -4515,31 +4586,35 @@
         }
       },
       "West Singhbhum": {
+        "delta": {
+          "confirmed": 1
+        },
         "delta7": {
-          "confirmed": 16,
+          "confirmed": 17,
           "recovered": 1
         },
         "meta": {
           "population": 1501619
         },
         "total": {
-          "confirmed": 4862,
+          "confirmed": 4863,
           "deceased": 39,
           "recovered": 4807
         }
       }
     },
     "meta": {
-      "last_updated": "2021-03-21T23:02:43+05:30",
+      "last_updated": "2021-03-22T23:24:59+05:30",
       "population": 37403000,
       "tested": {
-        "last_updated": "2021-03-22"
+        "last_updated": "2021-03-22",
+        "source": "https://twitter.com/rnuddkranchi/status/1374042204382011396?s=20"
       }
     },
     "total": {
-      "confirmed": 121261,
-      "deceased": 1096,
-      "recovered": 119409,
+      "confirmed": 121371,
+      "deceased": 1097,
+      "recovered": 119478,
       "tested": 5777287,
       "vaccinated": 1025942
     }
@@ -6055,7 +6130,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-03-22T22:36:12+05:30",
+      "last_updated": "2021-03-22T22:54:38+05:30",
       "population": 293000,
       "tested": {
         "last_updated": "2021-01-14",
@@ -7206,23 +7281,29 @@
   },
   "MP": {
     "delta": {
+      "confirmed": 1348,
+      "deceased": 2,
+      "recovered": 754,
       "tested": 25805
     },
     "delta7": {
-      "confirmed": 6336,
-      "deceased": 16,
-      "recovered": 3344,
+      "confirmed": 7684,
+      "deceased": 18,
+      "recovered": 4098,
       "tested": 145258,
       "vaccinated": 760106
     },
     "districts": {
       "Agar Malwa": {
+        "delta": {
+          "confirmed": 2
+        },
         "delta7": {
-          "confirmed": 5,
+          "confirmed": 7,
           "recovered": 5
         },
         "total": {
-          "confirmed": 700,
+          "confirmed": 702,
           "deceased": 10,
           "recovered": 681
         }
@@ -7242,9 +7323,13 @@
         }
       },
       "Anuppur": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 4
+        },
         "delta7": {
-          "confirmed": 11,
-          "recovered": 1
+          "confirmed": 13,
+          "recovered": 5
         },
         "meta": {
           "population": 749521,
@@ -7253,15 +7338,18 @@
           }
         },
         "total": {
-          "confirmed": 2145,
+          "confirmed": 2147,
           "deceased": 15,
-          "recovered": 2119,
+          "recovered": 2123,
           "tested": 3424
         }
       },
       "Ashoknagar": {
+        "delta": {
+          "confirmed": 4
+        },
         "delta7": {
-          "confirmed": 8,
+          "confirmed": 12,
           "recovered": 8
         },
         "meta": {
@@ -7271,16 +7359,20 @@
           }
         },
         "total": {
-          "confirmed": 1156,
+          "confirmed": 1160,
           "deceased": 17,
           "recovered": 1131,
           "tested": 55792
         }
       },
       "Balaghat": {
-        "delta7": {
-          "confirmed": 38,
+        "delta": {
+          "confirmed": 17,
           "recovered": 6
+        },
+        "delta7": {
+          "confirmed": 55,
+          "recovered": 12
         },
         "meta": {
           "population": 1701156,
@@ -7289,16 +7381,20 @@
           }
         },
         "total": {
-          "confirmed": 3301,
+          "confirmed": 3318,
           "deceased": 14,
-          "recovered": 3234,
+          "recovered": 3240,
           "tested": 9654
         }
       },
       "Barwani": {
+        "delta": {
+          "confirmed": 13,
+          "recovered": 13
+        },
         "delta7": {
-          "confirmed": 74,
-          "recovered": 32
+          "confirmed": 87,
+          "recovered": 45
         },
         "meta": {
           "population": 1385659,
@@ -7307,16 +7403,20 @@
           }
         },
         "total": {
-          "confirmed": 3134,
+          "confirmed": 3147,
           "deceased": 31,
-          "recovered": 3017,
+          "recovered": 3030,
           "tested": 41588
         }
       },
       "Betul": {
+        "delta": {
+          "confirmed": 67,
+          "recovered": 11
+        },
         "delta7": {
-          "confirmed": 151,
-          "recovered": 86
+          "confirmed": 218,
+          "recovered": 97
         },
         "meta": {
           "population": 1575247,
@@ -7325,15 +7425,18 @@
           }
         },
         "total": {
-          "confirmed": 4088,
+          "confirmed": 4155,
           "deceased": 79,
-          "recovered": 3794,
+          "recovered": 3805,
           "tested": 68036
         }
       },
       "Bhind": {
+        "delta": {
+          "confirmed": 2
+        },
         "delta7": {
-          "confirmed": 5,
+          "confirmed": 7,
           "recovered": 2
         },
         "meta": {
@@ -7343,17 +7446,22 @@
           }
         },
         "total": {
-          "confirmed": 1511,
+          "confirmed": 1513,
           "deceased": 10,
           "recovered": 1498,
           "tested": 44395
         }
       },
       "Bhopal": {
+        "delta": {
+          "confirmed": 349,
+          "deceased": 1,
+          "recovered": 138
+        },
         "delta7": {
-          "confirmed": 1575,
-          "deceased": 3,
-          "recovered": 481
+          "confirmed": 1924,
+          "deceased": 4,
+          "recovered": 619
         },
         "meta": {
           "population": 2368145,
@@ -7362,17 +7470,22 @@
           }
         },
         "total": {
-          "confirmed": 47110,
-          "deceased": 625,
-          "recovered": 44416,
+          "confirmed": 47459,
+          "deceased": 626,
+          "recovered": 44554,
           "tested": 245166
         }
       },
       "Burhanpur": {
-        "delta7": {
-          "confirmed": 103,
+        "delta": {
+          "confirmed": 18,
           "deceased": 1,
-          "recovered": 100
+          "recovered": 21
+        },
+        "delta7": {
+          "confirmed": 121,
+          "deceased": 2,
+          "recovered": 121
         },
         "meta": {
           "population": 756993,
@@ -7381,15 +7494,18 @@
           }
         },
         "total": {
-          "confirmed": 1223,
-          "deceased": 28,
-          "recovered": 1066,
+          "confirmed": 1241,
+          "deceased": 29,
+          "recovered": 1087,
           "tested": 13040
         }
       },
       "Chhatarpur": {
+        "delta": {
+          "confirmed": 1
+        },
         "delta7": {
-          "confirmed": 5
+          "confirmed": 6
         },
         "meta": {
           "population": 1762857,
@@ -7398,17 +7514,21 @@
           }
         },
         "total": {
-          "confirmed": 2118,
+          "confirmed": 2119,
           "deceased": 32,
           "recovered": 2081,
           "tested": 50518
         }
       },
       "Chhindwara": {
+        "delta": {
+          "confirmed": 34,
+          "recovered": 23
+        },
         "delta7": {
-          "confirmed": 138,
+          "confirmed": 172,
           "deceased": 1,
-          "recovered": 81
+          "recovered": 104
         },
         "meta": {
           "population": 2090306,
@@ -7417,15 +7537,18 @@
           }
         },
         "total": {
-          "confirmed": 3377,
+          "confirmed": 3411,
           "deceased": 51,
-          "recovered": 3119,
+          "recovered": 3142,
           "tested": 79090
         }
       },
       "Damoh": {
+        "delta": {
+          "confirmed": 8
+        },
         "delta7": {
-          "confirmed": 49,
+          "confirmed": 57,
           "recovered": 28
         },
         "meta": {
@@ -7435,15 +7558,18 @@
           }
         },
         "total": {
-          "confirmed": 2982,
+          "confirmed": 2990,
           "deceased": 93,
           "recovered": 2827,
           "tested": 16564
         }
       },
       "Datia": {
+        "delta": {
+          "confirmed": 1
+        },
         "delta7": {
-          "confirmed": 26,
+          "confirmed": 27,
           "recovered": 6
         },
         "meta": {
@@ -7453,16 +7579,20 @@
           }
         },
         "total": {
-          "confirmed": 1952,
+          "confirmed": 1953,
           "deceased": 20,
           "recovered": 1903,
           "tested": 40322
         }
       },
       "Dewas": {
+        "delta": {
+          "confirmed": 13,
+          "recovered": 4
+        },
         "delta7": {
-          "confirmed": 63,
-          "recovered": 23
+          "confirmed": 76,
+          "recovered": 27
         },
         "meta": {
           "population": 1563107,
@@ -7471,16 +7601,20 @@
           }
         },
         "total": {
-          "confirmed": 3072,
+          "confirmed": 3085,
           "deceased": 27,
-          "recovered": 2974,
+          "recovered": 2978,
           "tested": 96155
         }
       },
       "Dhar": {
+        "delta": {
+          "confirmed": 6,
+          "recovered": 5
+        },
         "delta7": {
-          "confirmed": 35,
-          "recovered": 23
+          "confirmed": 41,
+          "recovered": 28
         },
         "meta": {
           "population": 2184672,
@@ -7489,15 +7623,18 @@
           }
         },
         "total": {
-          "confirmed": 4248,
+          "confirmed": 4254,
           "deceased": 59,
-          "recovered": 4154,
+          "recovered": 4159,
           "tested": 62597
         }
       },
       "Dindori": {
+        "delta": {
+          "confirmed": 9
+        },
         "delta7": {
-          "confirmed": 9,
+          "confirmed": 18,
           "recovered": 4
         },
         "meta": {
@@ -7507,16 +7644,20 @@
           }
         },
         "total": {
-          "confirmed": 1079,
+          "confirmed": 1088,
           "deceased": 1,
           "recovered": 1068,
           "tested": 3557
         }
       },
       "Guna": {
+        "delta": {
+          "confirmed": 12,
+          "recovered": 1
+        },
         "delta7": {
-          "confirmed": 33,
-          "recovered": 9
+          "confirmed": 45,
+          "recovered": 10
         },
         "meta": {
           "population": 1240938,
@@ -7525,17 +7666,21 @@
           }
         },
         "total": {
-          "confirmed": 1630,
+          "confirmed": 1642,
           "deceased": 26,
-          "recovered": 1564,
+          "recovered": 1565,
           "tested": 40229
         }
       },
       "Gwalior": {
+        "delta": {
+          "confirmed": 46,
+          "recovered": 30
+        },
         "delta7": {
-          "confirmed": 196,
+          "confirmed": 242,
           "deceased": 3,
-          "recovered": 102
+          "recovered": 132
         },
         "meta": {
           "population": 2030543,
@@ -7544,15 +7689,18 @@
           }
         },
         "total": {
-          "confirmed": 16942,
+          "confirmed": 16988,
           "deceased": 234,
-          "recovered": 16447,
+          "recovered": 16477,
           "tested": 206696
         }
       },
       "Harda": {
+        "delta": {
+          "confirmed": 1
+        },
         "delta7": {
-          "confirmed": 13,
+          "confirmed": 14,
           "recovered": 8
         },
         "meta": {
@@ -7562,16 +7710,19 @@
           }
         },
         "total": {
-          "confirmed": 2194,
+          "confirmed": 2195,
           "deceased": 37,
           "recovered": 2145,
           "tested": 36708
         }
       },
       "Hoshangabad": {
+        "delta": {
+          "recovered": 4
+        },
         "delta7": {
           "confirmed": 22,
-          "recovered": 26
+          "recovered": 30
         },
         "meta": {
           "population": 1240975,
@@ -7582,15 +7733,19 @@
         "total": {
           "confirmed": 3989,
           "deceased": 61,
-          "recovered": 3902,
+          "recovered": 3906,
           "tested": 46294
         }
       },
       "Indore": {
+        "delta": {
+          "confirmed": 356,
+          "recovered": 311
+        },
         "delta7": {
-          "confirmed": 1742,
+          "confirmed": 2098,
           "deceased": 1,
-          "recovered": 1337
+          "recovered": 1648
         },
         "meta": {
           "population": 3272335,
@@ -7599,16 +7754,20 @@
           }
         },
         "total": {
-          "confirmed": 64153,
+          "confirmed": 64509,
           "deceased": 944,
-          "recovered": 61119,
+          "recovered": 61430,
           "tested": 780266
         }
       },
       "Jabalpur": {
+        "delta": {
+          "confirmed": 102,
+          "recovered": 52
+        },
         "delta7": {
-          "confirmed": 502,
-          "recovered": 200
+          "confirmed": 604,
+          "recovered": 252
         },
         "meta": {
           "population": 2460714,
@@ -7617,16 +7776,20 @@
           }
         },
         "total": {
-          "confirmed": 17572,
+          "confirmed": 17674,
           "deceased": 252,
-          "recovered": 16768,
+          "recovered": 16820,
           "tested": 293923
         }
       },
       "Jhabua": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 3
+        },
         "delta7": {
-          "confirmed": 26,
-          "recovered": 23
+          "confirmed": 29,
+          "recovered": 26
         },
         "meta": {
           "population": 1024091,
@@ -7635,15 +7798,18 @@
           }
         },
         "total": {
-          "confirmed": 2689,
+          "confirmed": 2692,
           "deceased": 27,
-          "recovered": 2629,
+          "recovered": 2632,
           "tested": 52146
         }
       },
       "Katni": {
+        "delta": {
+          "confirmed": 1
+        },
         "delta7": {
-          "confirmed": 25,
+          "confirmed": 26,
           "recovered": 17
         },
         "meta": {
@@ -7653,17 +7819,21 @@
           }
         },
         "total": {
-          "confirmed": 2338,
+          "confirmed": 2339,
           "deceased": 21,
           "recovered": 2292,
           "tested": 56828
         }
       },
       "Khandwa": {
+        "delta": {
+          "confirmed": 11,
+          "recovered": 11
+        },
         "delta7": {
-          "confirmed": 137,
+          "confirmed": 148,
           "deceased": 1,
-          "recovered": 42
+          "recovered": 53
         },
         "meta": {
           "population": 1309443,
@@ -7672,17 +7842,21 @@
           }
         },
         "total": {
-          "confirmed": 2606,
+          "confirmed": 2617,
           "deceased": 64,
-          "recovered": 2390,
+          "recovered": 2401,
           "tested": 17090
         }
       },
       "Khargone": {
+        "delta": {
+          "confirmed": 34,
+          "recovered": 19
+        },
         "delta7": {
-          "confirmed": 124,
+          "confirmed": 158,
           "deceased": 2,
-          "recovered": 86
+          "recovered": 105
         },
         "meta": {
           "population": 1872413,
@@ -7691,30 +7865,38 @@
           }
         },
         "total": {
-          "confirmed": 5802,
+          "confirmed": 5836,
           "deceased": 112,
-          "recovered": 5544,
+          "recovered": 5563,
           "tested": 38413
         }
       },
       "Mandla": {
+        "delta": {
+          "confirmed": 5,
+          "recovered": 2
+        },
         "delta7": {
-          "confirmed": 13,
-          "recovered": 13
+          "confirmed": 18,
+          "recovered": 15
         },
         "meta": {
           "population": 1053522
         },
         "total": {
-          "confirmed": 1269,
+          "confirmed": 1274,
           "deceased": 10,
-          "recovered": 1246
+          "recovered": 1248
         }
       },
       "Mandsaur": {
+        "delta": {
+          "confirmed": 13,
+          "recovered": 4
+        },
         "delta7": {
-          "confirmed": 74,
-          "recovered": 45
+          "confirmed": 87,
+          "recovered": 49
         },
         "meta": {
           "population": 1339832,
@@ -7723,16 +7905,20 @@
           }
         },
         "total": {
-          "confirmed": 3050,
+          "confirmed": 3063,
           "deceased": 36,
-          "recovered": 2933,
+          "recovered": 2937,
           "tested": 52733
         }
       },
       "Morena": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 1
+        },
         "delta7": {
-          "confirmed": 14,
-          "recovered": 12
+          "confirmed": 15,
+          "recovered": 13
         },
         "meta": {
           "population": 1965137,
@@ -7741,16 +7927,20 @@
           }
         },
         "total": {
-          "confirmed": 3266,
+          "confirmed": 3267,
           "deceased": 29,
-          "recovered": 3223,
+          "recovered": 3224,
           "tested": 90967
         }
       },
       "Narsinghpur": {
+        "delta": {
+          "confirmed": 6,
+          "recovered": 4
+        },
         "delta7": {
-          "confirmed": 53,
-          "recovered": 14
+          "confirmed": 59,
+          "recovered": 18
         },
         "meta": {
           "population": 1092141,
@@ -7759,16 +7949,20 @@
           }
         },
         "total": {
-          "confirmed": 3627,
+          "confirmed": 3633,
           "deceased": 30,
-          "recovered": 3545,
+          "recovered": 3549,
           "tested": 90600
         }
       },
       "Neemuch": {
+        "delta": {
+          "confirmed": 5,
+          "recovered": 4
+        },
         "delta7": {
-          "confirmed": 57,
-          "recovered": 14
+          "confirmed": 62,
+          "recovered": 18
         },
         "meta": {
           "population": 825958,
@@ -7777,9 +7971,9 @@
           }
         },
         "total": {
-          "confirmed": 3181,
+          "confirmed": 3186,
           "deceased": 37,
-          "recovered": 3069,
+          "recovered": 3073,
           "tested": 57292
         }
       },
@@ -7800,23 +7994,31 @@
         }
       },
       "Panna": {
+        "delta": {
+          "confirmed": 8,
+          "recovered": 2
+        },
         "delta7": {
-          "confirmed": 13,
-          "recovered": 19
+          "confirmed": 21,
+          "recovered": 21
         },
         "meta": {
           "population": 1016028
         },
         "total": {
-          "confirmed": 1192,
+          "confirmed": 1200,
           "deceased": 4,
-          "recovered": 1166
+          "recovered": 1168
         }
       },
       "Raisen": {
+        "delta": {
+          "confirmed": 11,
+          "recovered": 3
+        },
         "delta7": {
-          "confirmed": 58,
-          "recovered": 11
+          "confirmed": 69,
+          "recovered": 14
         },
         "meta": {
           "population": 1331699,
@@ -7825,16 +8027,20 @@
           }
         },
         "total": {
-          "confirmed": 2591,
+          "confirmed": 2602,
           "deceased": 46,
-          "recovered": 2474,
+          "recovered": 2477,
           "tested": 44343
         }
       },
       "Rajgarh": {
+        "delta": {
+          "confirmed": 11,
+          "recovered": 7
+        },
         "delta7": {
-          "confirmed": 55,
-          "recovered": 10
+          "confirmed": 66,
+          "recovered": 17
         },
         "meta": {
           "population": 1546541,
@@ -7843,17 +8049,21 @@
           }
         },
         "total": {
-          "confirmed": 2585,
+          "confirmed": 2596,
           "deceased": 70,
-          "recovered": 2428,
+          "recovered": 2435,
           "tested": 46604
         }
       },
       "Ratlam": {
+        "delta": {
+          "confirmed": 45,
+          "recovered": 19
+        },
         "delta7": {
-          "confirmed": 199,
+          "confirmed": 244,
           "deceased": 1,
-          "recovered": 76
+          "recovered": 95
         },
         "meta": {
           "population": 1454483,
@@ -7862,16 +8072,20 @@
           }
         },
         "total": {
-          "confirmed": 5153,
+          "confirmed": 5198,
           "deceased": 85,
-          "recovered": 4805,
+          "recovered": 4824,
           "tested": 51736
         }
       },
       "Rewa": {
+        "delta": {
+          "confirmed": 7,
+          "recovered": 1
+        },
         "delta7": {
-          "confirmed": 44,
-          "recovered": 46
+          "confirmed": 51,
+          "recovered": 47
         },
         "meta": {
           "population": 2363744,
@@ -7880,16 +8094,20 @@
           }
         },
         "total": {
-          "confirmed": 4297,
+          "confirmed": 4304,
           "deceased": 35,
-          "recovered": 4214,
+          "recovered": 4215,
           "tested": 22690
         }
       },
       "Sagar": {
+        "delta": {
+          "confirmed": 30,
+          "recovered": 8
+        },
         "delta7": {
-          "confirmed": 139,
-          "recovered": 59
+          "confirmed": 169,
+          "recovered": 67
         },
         "meta": {
           "population": 2378295,
@@ -7898,16 +8116,20 @@
           }
         },
         "total": {
-          "confirmed": 5806,
+          "confirmed": 5836,
           "deceased": 153,
-          "recovered": 5497,
+          "recovered": 5505,
           "tested": 64801
         }
       },
       "Satna": {
+        "delta": {
+          "confirmed": 5,
+          "recovered": 6
+        },
         "delta7": {
-          "confirmed": 31,
-          "recovered": 19
+          "confirmed": 36,
+          "recovered": 25
         },
         "meta": {
           "population": 2228619,
@@ -7916,16 +8138,20 @@
           }
         },
         "total": {
-          "confirmed": 3584,
+          "confirmed": 3589,
           "deceased": 42,
-          "recovered": 3521,
+          "recovered": 3527,
           "tested": 28159
         }
       },
       "Sehore": {
+        "delta": {
+          "confirmed": 8,
+          "recovered": 2
+        },
         "delta7": {
-          "confirmed": 37,
-          "recovered": 23
+          "confirmed": 45,
+          "recovered": 25
         },
         "meta": {
           "population": 1311008,
@@ -7934,16 +8160,20 @@
           }
         },
         "total": {
-          "confirmed": 2932,
+          "confirmed": 2940,
           "deceased": 48,
-          "recovered": 2818,
+          "recovered": 2820,
           "tested": 45061
         }
       },
       "Seoni": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 1
+        },
         "delta7": {
-          "confirmed": 12,
-          "recovered": 11
+          "confirmed": 15,
+          "recovered": 12
         },
         "meta": {
           "population": 1378876,
@@ -7952,16 +8182,20 @@
           }
         },
         "total": {
-          "confirmed": 1643,
+          "confirmed": 1646,
           "deceased": 10,
-          "recovered": 1621,
+          "recovered": 1622,
           "tested": 15024
         }
       },
       "Shahdol": {
+        "delta": {
+          "confirmed": 8,
+          "recovered": 3
+        },
         "delta7": {
-          "confirmed": 19,
-          "recovered": 8
+          "confirmed": 27,
+          "recovered": 11
         },
         "meta": {
           "population": 1064989,
@@ -7970,17 +8204,20 @@
           }
         },
         "total": {
-          "confirmed": 3031,
+          "confirmed": 3039,
           "deceased": 30,
-          "recovered": 2976,
+          "recovered": 2979,
           "tested": 18177
         }
       },
       "Shajapur": {
+        "delta": {
+          "recovered": 2
+        },
         "delta7": {
           "confirmed": 50,
           "deceased": 1,
-          "recovered": 11
+          "recovered": 13
         },
         "meta": {
           "population": 1512353,
@@ -7991,14 +8228,18 @@
         "total": {
           "confirmed": 1902,
           "deceased": 23,
-          "recovered": 1802,
+          "recovered": 1804,
           "tested": 56805
         }
       },
       "Sheopur": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 1
+        },
         "delta7": {
-          "confirmed": 23,
-          "recovered": 18
+          "confirmed": 25,
+          "recovered": 19
         },
         "meta": {
           "population": 687952,
@@ -8007,15 +8248,18 @@
           }
         },
         "total": {
-          "confirmed": 1597,
+          "confirmed": 1599,
           "deceased": 16,
-          "recovered": 1540,
+          "recovered": 1541,
           "tested": 31449
         }
       },
       "Shivpuri": {
+        "delta": {
+          "confirmed": 5
+        },
         "delta7": {
-          "confirmed": 24,
+          "confirmed": 29,
           "recovered": 9
         },
         "meta": {
@@ -8025,16 +8269,20 @@
           }
         },
         "total": {
-          "confirmed": 3707,
+          "confirmed": 3712,
           "deceased": 30,
           "recovered": 3635,
           "tested": 47270
         }
       },
       "Sidhi": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 4
+        },
         "delta7": {
-          "confirmed": 24,
-          "recovered": 27
+          "confirmed": 27,
+          "recovered": 31
         },
         "meta": {
           "population": 1126515,
@@ -8043,30 +8291,37 @@
           }
         },
         "total": {
-          "confirmed": 2195,
+          "confirmed": 2198,
           "deceased": 13,
-          "recovered": 2135,
+          "recovered": 2139,
           "tested": 4660
         }
       },
       "Singrauli": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 3
+        },
         "delta7": {
-          "confirmed": 13,
-          "recovered": 14
+          "confirmed": 15,
+          "recovered": 17
         },
         "meta": {
           "population": 1178132
         },
         "total": {
-          "confirmed": 2014,
+          "confirmed": 2016,
           "deceased": 26,
-          "recovered": 1959
+          "recovered": 1962
         }
       },
       "Tikamgarh": {
+        "delta": {
+          "recovered": 2
+        },
         "delta7": {
           "confirmed": 12,
-          "recovered": 5
+          "recovered": 7
         },
         "meta": {
           "population": 1444920,
@@ -8077,15 +8332,19 @@
         "total": {
           "confirmed": 1348,
           "deceased": 27,
-          "recovered": 1304,
+          "recovered": 1306,
           "tested": 43011
         }
       },
       "Ujjain": {
+        "delta": {
+          "confirmed": 28,
+          "recovered": 16
+        },
         "delta7": {
-          "confirmed": 175,
+          "confirmed": 203,
           "deceased": 1,
-          "recovered": 89
+          "recovered": 105
         },
         "meta": {
           "population": 1986864,
@@ -8094,15 +8353,18 @@
           }
         },
         "total": {
-          "confirmed": 5502,
+          "confirmed": 5530,
           "deceased": 106,
-          "recovered": 5099,
+          "recovered": 5115,
           "tested": 31631
         }
       },
       "Umaria": {
+        "delta": {
+          "confirmed": 13
+        },
         "delta7": {
-          "confirmed": 9,
+          "confirmed": 22,
           "deceased": 1,
           "recovered": 3
         },
@@ -8113,16 +8375,20 @@
           }
         },
         "total": {
-          "confirmed": 1338,
+          "confirmed": 1351,
           "deceased": 19,
           "recovered": 1306,
           "tested": 54811
         }
       },
       "Vidisha": {
+        "delta": {
+          "confirmed": 17,
+          "recovered": 3
+        },
         "delta7": {
-          "confirmed": 46,
-          "recovered": 28
+          "confirmed": 63,
+          "recovered": 31
         },
         "meta": {
           "population": 1458212,
@@ -8131,15 +8397,15 @@
           }
         },
         "total": {
-          "confirmed": 3753,
+          "confirmed": 3770,
           "deceased": 72,
-          "recovered": 3621,
+          "recovered": 3624,
           "tested": 65935
         }
       }
     },
     "meta": {
-      "last_updated": "2021-03-21T23:36:46+05:30",
+      "last_updated": "2021-03-22T23:24:57+05:30",
       "notes": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "population": 82232000,
       "tested": {
@@ -8148,9 +8414,9 @@
       }
     },
     "total": {
-      "confirmed": 275727,
-      "deceased": 3906,
-      "recovered": 263821,
+      "confirmed": 277075,
+      "deceased": 3908,
+      "recovered": 264575,
       "tested": 6165931,
       "vaccinated": 2228256
     }
@@ -9101,7 +9367,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-03-22T22:36:00+05:30",
+      "last_updated": "2021-03-22T22:54:08+05:30",
       "notes": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "population": 43671000,
       "tested": {
@@ -11716,21 +11982,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 39123,
-      "deceased": 193,
+      "confirmed": 40581,
+      "deceased": 196,
       "other": 3,
-      "recovered": 28890
+      "recovered": 29713
     },
     "delta7": {
-      "confirmed": 275247,
-      "deceased": 1304,
+      "confirmed": 276705,
+      "deceased": 1307,
       "other": 55,
-      "recovered": 152583,
+      "recovered": 153406,
       "tested": 6165011,
       "vaccinated": 11393969
     },
     "meta": {
-      "last_updated": "2021-03-22T22:35:57+05:30",
+      "last_updated": "2021-03-22T23:24:55+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-03-21",
@@ -11741,10 +12007,10 @@
       }
     },
     "total": {
-      "confirmed": 11684842,
-      "deceased": 160196,
+      "confirmed": 11686300,
+      "deceased": 160199,
       "other": 4727,
-      "recovered": 11178214,
+      "recovered": 11179037,
       "tested": 234445774,
       "vaccinated": 41295916
     }
