@@ -12497,12 +12497,14 @@
   "TR": {
     "delta": {
       "confirmed": 6,
-      "recovered": 16
+      "recovered": 16,
+      "tested": 1380
     },
     "delta7": {
       "confirmed": 48,
       "deceased": 1,
-      "recovered": 111
+      "recovered": 111,
+      "tested": 7851
     },
     "districts": {
       "Dhalai": {
@@ -12699,13 +12701,18 @@
       }
     },
     "meta": {
-      "population": 3992000
+      "population": 3992000,
+      "tested": {
+        "last_updated": "2020-12-31",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/4649"
+      }
     },
     "total": {
       "confirmed": 33261,
       "deceased": 382,
       "other": 23,
-      "recovered": 32728
+      "recovered": 32728,
+      "tested": 578723
     }
   },
   "TT": {
@@ -12739,10 +12746,14 @@
     }
   },
   "UP": {
+    "delta": {
+      "tested": 149899
+    },
     "delta7": {
       "confirmed": 6198,
       "deceased": 85,
-      "recovered": 8257
+      "recovered": 8257,
+      "tested": 970484
     },
     "districts": {
       "Agra": {
@@ -14349,12 +14360,17 @@
       }
     },
     "meta": {
-      "population": 224979000
+      "population": 224979000,
+      "tested": {
+        "last_updated": "2020-12-31",
+        "source": "https://twitter.com/ShishirGoUP/status/1344622360943501313?s=20"
+      }
     },
     "total": {
       "confirmed": 584966,
       "deceased": 8352,
-      "recovered": 562459
+      "recovered": 562459,
+      "tested": 23943169
     }
   },
   "UT": {
@@ -14362,13 +14378,15 @@
       "confirmed": 304,
       "deceased": 5,
       "other": 4,
-      "recovered": 539
+      "recovered": 539,
+      "tested": 12379
     },
     "delta7": {
       "confirmed": 2544,
       "deceased": 51,
       "other": 66,
-      "recovered": 3039
+      "recovered": 3039,
+      "tested": 96308
     },
     "districts": {
       "Almora": {
@@ -14717,25 +14735,32 @@
       }
     },
     "meta": {
-      "population": 11141000
+      "population": 11141000,
+      "tested": {
+        "last_updated": "2020-12-31",
+        "source": "https://twitter.com/PIBDehradun/status/1344624904923013120?s=20"
+      }
     },
     "total": {
       "confirmed": 90920,
       "deceased": 1509,
       "other": 1186,
-      "recovered": 83506
+      "recovered": 83506,
+      "tested": 1777371
     }
   },
   "WB": {
     "delta": {
       "confirmed": 1170,
       "deceased": 29,
-      "recovered": 1537
+      "recovered": 1537,
+      "tested": 40254
     },
     "delta7": {
       "confirmed": 8849,
       "deceased": 207,
-      "recovered": 11850
+      "recovered": 11850,
+      "tested": 253552
     },
     "districts": {
       "Alipurduar": {
@@ -15193,12 +15218,17 @@
       }
     },
     "meta": {
-      "population": 96906000
+      "population": 96906000,
+      "tested": {
+        "last_updated": "2020-12-31",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_31st_DECEMBER_REPORT_FINAL.pdf"
+      }
     },
     "total": {
       "confirmed": 552063,
       "deceased": 9712,
-      "recovered": 530366
+      "recovered": 530366,
+      "tested": 7110430
     }
   }
 }
