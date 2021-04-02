@@ -10210,11 +10210,12 @@
   },
   "TR": {
     "delta": {
-      "confirmed": 4
+      "confirmed": 4,
+      "recovered": 5
     },
     "delta7": {
       "confirmed": 41,
-      "recovered": 20,
+      "recovered": 25,
       "tested": 5142,
       "vaccinated": 76634
     },
@@ -10273,8 +10274,12 @@
         }
       },
       "North Tripura": {
+        "delta": {
+          "recovered": 1
+        },
         "delta7": {
-          "confirmed": 2
+          "confirmed": 2,
+          "recovered": 1
         },
         "meta": {
           "population": 415946,
@@ -10286,7 +10291,7 @@
           "confirmed": 2762,
           "deceased": 16,
           "other": 7,
-          "recovered": 2736,
+          "recovered": 2737,
           "tested": 100931
         }
       },
@@ -10329,6 +10334,12 @@
         }
       },
       "Unokoti": {
+        "delta": {
+          "recovered": 1
+        },
+        "delta7": {
+          "recovered": 1
+        },
         "meta": {
           "population": 277335,
           "tested": {
@@ -10338,17 +10349,18 @@
         "total": {
           "confirmed": 2768,
           "deceased": 23,
-          "recovered": 2744,
+          "recovered": 2745,
           "tested": 34930
         }
       },
       "West Tripura": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "recovered": 3
         },
         "delta7": {
           "confirmed": 27,
-          "recovered": 20
+          "recovered": 23
         },
         "meta": {
           "population": 917534,
@@ -10360,13 +10372,13 @@
           "confirmed": 11780,
           "deceased": 195,
           "other": 11,
-          "recovered": 11531,
+          "recovered": 11534,
           "tested": 202939
         }
       }
     },
     "meta": {
-      "last_updated": "2021-04-02T14:40:51+05:30",
+      "last_updated": "2021-04-02T15:12:49+05:30",
       "notes": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "population": 3992000,
       "tested": {
@@ -10378,7 +10390,7 @@
       "confirmed": 33518,
       "deceased": 389,
       "other": 23,
-      "recovered": 33042,
+      "recovered": 33047,
       "tested": 641498,
       "vaccinated": 719751
     }
@@ -10387,18 +10399,18 @@
     "delta": {
       "confirmed": 1657,
       "deceased": 6,
-      "recovered": 397
+      "recovered": 402
     },
     "delta7": {
       "confirmed": 395395,
       "deceased": 2159,
       "other": 71,
-      "recovered": 230432,
+      "recovered": 230437,
       "tested": 6143034,
       "vaccinated": 7008123
     },
     "meta": {
-      "last_updated": "2021-04-02T14:40:44+05:30",
+      "last_updated": "2021-04-02T15:12:47+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-04-01",
@@ -10413,7 +10425,7 @@
       "confirmed": 12303767,
       "deceased": 163434,
       "other": 4873,
-      "recovered": 11523281,
+      "recovered": 11523286,
       "tested": 245912587,
       "vaccinated": 65117896
     }
