@@ -33,3 +33,5 @@
 - [COVID19 India](https://github.com/iamnishanth/Covid19India) (by Nishanth [@iamNishanth](https://github.com/iamnishanth))
 
 - [Covid-19 Tracker](https://github.com/Mehatab/covid-19) (by Mehatab Shaikh [@mehatab](https://github.com/Mehatab))
+
+- [Covid-19 Tracking and Visulisation Application(Flutter)](https://github.com/Mohan9182/Covid-19-App) (by Man mohan [@Mohan9182](https://github.com/Mohan9182))
